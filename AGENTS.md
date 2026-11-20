@@ -1,3 +1,5 @@
+
+
 # AGENTS.md
 
 Canonical guide for AI coding agents working on this repository.

@@ -8,6 +8,7 @@ require 'etc'
 require 'open3'
 require 'rbconfig'
 
+
 RUNS = Integer(ENV.fetch('BENCH_RUNS', '15'))
 EXAMPLES = 10_000
 LIB = File.expand_path('../lib', __dir__)
